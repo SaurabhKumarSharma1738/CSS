@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: #ffa511;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    font-size: 55px;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-decoration: teal double underline;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+    font-weight: 600;
+    color: indianred;
+    text-align: center;
+}
+
+h3{
+    font-size: large;
+    font-family: serif;
+    color: rgb(26, 184, 131);
+    letter-spacing: 1.5px;
+}
